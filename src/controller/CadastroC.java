@@ -21,6 +21,7 @@ import view.Loginview;
  *
  * @author eduar
  */
+//test branch github
 public class CadastroC {
     
     private Cadastroview view;
